@@ -8,7 +8,9 @@
 <p><a href="README.en.md">English</a> · <a href="CONTRIBUTING.md">参与贡献</a> · <a href="https://github.com/AwesomeRepoHub/awesome-index">全部合集</a></p>
 </div>
 
-> **18 个项目，共 1.4M Stars。** Stars、许可证、最近提交时间由 GitHub API 实时读取，数据更新于 2026-10-24。排名按 Stars 排序，仅作热度参考，不代表质量。
+> **31 个项目，共 2.1M Stars。** Stars、许可证、最近提交时间由 GitHub API 实时读取，数据更新于 2026-10-24。排名按 Stars 排序，仅作热度参考，不代表质量。
+
+<sub>读表说明：Stars 与「更新」都是生成时从 GitHub API 读到的真实值；许可证取自仓库；括号里是使用前要知道的限制。</sub>
 
 ## 30 秒选型
 
@@ -28,55 +30,68 @@
 
 ## 相册、影音与文档
 
-占用硬盘最多的一类，装之前先算容量。
+_占用硬盘最多的一类，装之前先算容量。_
 
-| 项目 | 一句话说明 | Stars | 许可证 |
-|:--|:--|--:|:--|
-| [Immich](https://github.com/immich-app/immich) | 自建相册，手机自动备份、人脸与地点检索，体验接近 iCloud | 117k | `AGPL-3.0` |
-| [Jellyfin](https://github.com/jellyfin/jellyfin) | 自建影音库，海报墙、转码、多端播放，替代 Plex 免费方案 | 58.5k | `GPL-2.0` |
-| [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 扫描件 OCR 归档，按标签、日期检索合同发票 | 47.0k | `GPL-3.0` |
-| [PhotoPrism](https://github.com/photoprism/photoprism) | 基于 AI 的图片管理，按人物和场景自动归类，适合整理老照片 | 40.3k | `自定义` |
+| 项目 | 一句话说明 | Stars | 许可证 | 更新 |
+|:--|:--|--:|:--|--:|
+| [Immich](https://github.com/immich-app/immich) | 自建相册，手机自动备份、人脸与地点检索，体验接近 iCloud | 117k | `AGPL-3.0` | 2026-10 |
+| [Jellyfin](https://github.com/jellyfin/jellyfin) | 自建影音库，海报墙、转码、多端播放，替代 Plex 免费方案 | 58.5k | `GPL-2.0` | 2026-10 |
+| [Paperless-ngx](https://github.com/paperless-ngx/paperless-ngx) | 扫描件 OCR 归档，按标签、日期检索合同发票 | 47.0k | `GPL-3.0` | 2026-10 |
+| [PhotoPrism](https://github.com/photoprism/photoprism) | 基于 AI 的图片管理，按人物和场景自动归类，适合整理老照片 | 40.3k | `自定义` | 2026-10 |
 
 <sub>[回到目录](#目录)</sub>
 
 ## 协作与知识
 
-多人一起用才值得部署的一类。
+_多人一起用才值得部署的一类。_
 
-| 项目 | 一句话说明 | Stars | 许可证 |
-|:--|:--|--:|:--|
-| [NocoDB](https://github.com/nocodb/nocodb) | Airtable 开源替代，把表格直接变成数据库和 API | 65.3k | `自定义` |
-| [Memos](https://github.com/usememos/memos) | 极简自托管备忘录，像发微博一样记想法，Markdown 存储 | 64.0k | `MIT` |
-| [Gitea](https://github.com/go-gitea/gitea) | 轻量 Git 服务，几百 MB 内存就能跑，适合内网代码托管 | 58.7k | `MIT` |
-| [Mastodon](https://github.com/mastodon/mastodon) | 去中心化微博，自建实例可与其他实例互通 | 50.4k | `AGPL-3.0` |
-| [Nextcloud](https://github.com/nextcloud/server) | 自建网盘与在线 Office，文件、日历、通讯录一套齐 | 37.3k | `AGPL-3.0` |
+| 项目 | 一句话说明 | Stars | 许可证 | 更新 |
+|:--|:--|--:|:--|--:|
+| [NocoDB](https://github.com/nocodb/nocodb) | Airtable 开源替代，把表格直接变成数据库和 API | 65.3k | `自定义` | 2026-10 |
+| [Memos](https://github.com/usememos/memos) | 极简自托管备忘录，像发微博一样记想法，Markdown 存储 | 64.0k | `MIT` | 2026-10 |
+| [Gitea](https://github.com/go-gitea/gitea) | 轻量 Git 服务，几百 MB 内存就能跑，适合内网代码托管 | 58.7k | `MIT` | 2026-10 |
+| [Mastodon](https://github.com/mastodon/mastodon) | 去中心化微博，自建实例可与其他实例互通 | 50.4k | `AGPL-3.0` | 2026-10 |
+| [Gogs](https://github.com/gogs/gogs) | 单二进制就能跑的 Git 服务，比 Gitea 更轻 | 47.9k | `MIT` | 2026-10 |
+| [Trilium](https://github.com/TriliumNext/Trilium) | 层级笔记加关系图，适合长期个人知识库 | 38.5k | `AGPL-3.0` | 2026-10 |
+| [Khoj](https://github.com/khoj-ai/khoj) | 自托管 AI 第二大脑，直接问自己的文档和网页 | 37.8k | `AGPL-3.0` | 2026-08 |
+| [Nextcloud](https://github.com/nextcloud/server) | 自建网盘与在线 Office，文件、日历、通讯录一套齐 | 37.3k | `AGPL-3.0` | 2026-10 |
 
 <sub>[回到目录](#目录)</sub>
 
 ## 自动化与日常工具
 
-装完立刻能感觉到效率提升的一组。
+_装完立刻能感觉到效率提升的一组。_
 
-| 项目 | 一句话说明 | Stars | 许可证 |
-|:--|:--|--:|:--|
-| [n8n](https://github.com/n8n-io/n8n) | 节点式自动化，接 400+ 服务，AI 工作流也能编排 | 208k | `自定义` |
-| [Open WebUI](https://github.com/open-webui/open-webui) | 给本地模型套一个 ChatGPT 式界面，支持多用户与知识库 | 157k | `自定义` |
-| [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 浏览器里合并、拆分、OCR、加水印，PDF 工具箱 | 94.8k | `自定义` |
-| [Uptime Kuma](https://github.com/louislam/uptime-kuma) | 监控站点和端口，挂了发 Telegram 或邮件告警 | 92.8k | `MIT` |
+| 项目 | 一句话说明 | Stars | 许可证 | 更新 |
+|:--|:--|--:|:--|--:|
+| [n8n](https://github.com/n8n-io/n8n) | 节点式自动化，接 400+ 服务，AI 工作流也能编排 | 208k | `自定义` | 2026-10 |
+| [Dify](https://github.com/langgenius/dify) | 可视化编排 agent 工作流与 RAG，多模型接入 | 159k | `自定义` | 2026-10 |
+| [Open WebUI](https://github.com/open-webui/open-webui) | 给本地模型套一个 ChatGPT 式界面，支持多用户与知识库 | 157k | `自定义` | 2026-10 |
+| [Stirling PDF](https://github.com/Stirling-Tools/Stirling-PDF) | 浏览器里合并、拆分、OCR、加水印，PDF 工具箱 | 94.8k | `自定义` | 2026-10 |
+| [Uptime Kuma](https://github.com/louislam/uptime-kuma) | 监控站点和端口，挂了发 Telegram 或邮件告警 | 92.8k | `MIT` | 2026-10 |
+| [Unsloth](https://github.com/unslothai/unsloth) | 本地跑与微调大模型的界面，支持 GGUF、MLX | 78.5k | `Apache-2.0` | 2026-10 |
+| [LibreChat](https://github.com/LibreChat-AI/LibreChat) | 自建 ChatGPT 式聊天，支持多家模型与插件 | 46.2k | `MIT` | 2026-10 |
+| [Jan](https://github.com/janhq/jan) | 100% 离线的桌面 ChatGPT 替代，数据不出本机 | 45.0k | `自定义` | 2026-10 |
+| [Reactive Resume](https://github.com/reactive-resume/reactive-resume) | 隐私优先的简历编辑器，数据存本地 | 44.8k | `MIT` | 2026-10 |
+| [ToolJet](https://github.com/ToolJet/ToolJet) | 低代码搭管理后台，能用 AI 生成界面 | 41.1k | `AGPL-3.0` | 2026-10 |
+| [Appsmith](https://github.com/appsmithorg/appsmith) | 拖拽搭内部工具与后台，直连数据库和 API | 41.1k | `Apache-2.0` | 2026-10 |
+| [Langfuse](https://github.com/langfuse/langfuse) | LLM 应用的可观测与评测，追踪每次调用与成本 | 36.3k | `自定义` | 2026-10 |
 
 <sub>[回到目录](#目录)</sub>
 
 ## 部署、接入与远程
 
-先把这一层搭好，后面装什么都轻松。
+_先把这一层搭好，后面装什么都轻松。_
 
-| 项目 | 一句话说明 | Stars | 许可证 |
-|:--|:--|--:|:--|
-| [RustDesk](https://github.com/rustdesk/rustdesk) | 自建远程桌面，中继与穿透都能自己控，数据不出门 | 127k | `AGPL-3.0` |
-| [Coolify](https://github.com/coollabsio/coolify) | 自建 Vercel/Heroku，Git 推送即部署，带证书与备份 | 63.6k | `Apache-2.0` |
-| [Appwrite](https://github.com/appwrite/appwrite) | 自建后端即服务，账号、数据库、存储、函数都有 | 57.8k | `BSD-3-Clause` |
-| [Headscale](https://github.com/juanfont/headscale) | Tailscale 控制面的自托管实现，组内网不用第三方服务 | 44.9k | `BSD-3-Clause` |
-| [Dokploy](https://github.com/Dokploy/dokploy) | 更轻的 PaaS 面板，Docker 应用与数据库一键起 | 38.0k | `自定义` |
+| 项目 | 一句话说明 | Stars | 许可证 | 更新 |
+|:--|:--|--:|:--|--:|
+| [RustDesk](https://github.com/rustdesk/rustdesk) | 自建远程桌面，中继与穿透都能自己控，数据不出门 | 127k | `AGPL-3.0` | 2026-10 |
+| [Coolify](https://github.com/coollabsio/coolify) | 自建 Vercel/Heroku，Git 推送即部署，带证书与备份 | 63.6k | `Apache-2.0` | 2026-10 |
+| [Appwrite](https://github.com/appwrite/appwrite) | 自建后端即服务，账号、数据库、存储、函数都有 | 57.8k | `BSD-3-Clause` | 2026-10 |
+| [Headscale](https://github.com/juanfont/headscale) | Tailscale 控制面的自托管实现，组内网不用第三方服务 | 44.9k | `BSD-3-Clause` | 2026-10 |
+| [Dokploy](https://github.com/Dokploy/dokploy) | 更轻的 PaaS 面板，Docker 应用与数据库一键起 | 38.0k | `自定义` | 2026-10 |
+| [Glance](https://github.com/glanceapp/glance) | 把所有信息源聚成一个自建首页，启动快 | 37.6k | `AGPL-3.0` | 2026-10 |
+| [CasaOS](https://github.com/IceWhaleTech/CasaOS) | 把家用小主机变成个人云，应用商店一键装 | 37.4k | `Apache-2.0` | 2026-09 |
 
 <sub>[回到目录](#目录)</sub>
 
